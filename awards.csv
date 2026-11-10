@@ -1,0 +1,678 @@
+id,movie_id,award,year
+1,1,Filmfare Best Film,1958
+2,8,Filmfare Best Film,1959
+3,11,Filmfare Best Film,1961
+4,18,Filmfare Best Film,1961
+5,10,Filmfare Best Film,1962
+6,16,Filmfare Best Film,1964
+7,17,Filmfare Best Film,1965
+8,24,Filmfare Best Film,1972
+9,23,Filmfare Best Film,1974
+10,25,Filmfare Best Film,1973
+11,28,Filmfare Best Film,1975
+12,31,Filmfare Best Film,1976
+13,619,Filmfare Best Film,1977
+14,32,Filmfare Best Film,1978
+15,50,Filmfare Best Film,1990
+16,53,Filmfare Best Film,1996
+17,54,Filmfare Best Film,1995
+18,57,Filmfare Best Film,1999
+19,59,Filmfare Best Film,2000
+20,60,Filmfare Best Film,2001
+21,64,Filmfare Best Film,2002
+22,15,Filmfare Best Film,2003
+23,66,Filmfare Best Film,2004
+24,63,Filmfare Best Film,2002
+25,69,Filmfare Best Film,2005
+26,71,Filmfare Best Film,2006
+27,74,Filmfare Best Film,2007
+28,78,Filmfare Best Film,2008
+29,502,Filmfare Best Film,2009
+30,89,Filmfare Best Film,2010
+31,94,Filmfare Best Film,2011
+32,102,Filmfare Best Film,2012
+33,106,Filmfare Best Film,2013
+34,115,Filmfare Best Film,2014
+35,123,Filmfare Best Film,2015
+36,125,Filmfare Best Film,2016
+37,131,Filmfare Best Film,2017
+38,826,Filmfare Best Film,2018
+39,152,Filmfare Best Film,2019
+40,155,Filmfare Best Film,2020
+41,172,Filmfare Best Film,2021
+42,933,Filmfare Best Film,2022
+43,190,Filmfare Best Film,2023
+44,217,Filmfare Best Film,2024
+45,1,Filmfare Best Director,1958
+46,8,Filmfare Best Director,1959
+47,17,Filmfare Best Director,1965
+48,24,Filmfare Best Director,1972
+49,23,Filmfare Best Director,1974
+50,31,Filmfare Best Director,1976
+51,32,Filmfare Best Director,1978
+52,50,Filmfare Best Director,1990
+53,53,Filmfare Best Director,1996
+54,57,Filmfare Best Director,1999
+55,59,Filmfare Best Director,2000
+56,60,Filmfare Best Director,2001
+57,63,Filmfare Best Director,2002
+58,15,Filmfare Best Director,2003
+59,66,Filmfare Best Director,2004
+60,69,Filmfare Best Director,2005
+61,71,Filmfare Best Director,2006
+62,74,Filmfare Best Director,2007
+63,78,Filmfare Best Director,2008
+64,502,Filmfare Best Director,2009
+65,89,Filmfare Best Director,2010
+66,94,Filmfare Best Director,2011
+67,102,Filmfare Best Director,2012
+68,106,Filmfare Best Director,2013
+69,115,Filmfare Best Director,2014
+70,123,Filmfare Best Director,2015
+71,125,Filmfare Best Director,2016
+72,131,Filmfare Best Director,2017
+73,826,Filmfare Best Director,2018
+74,152,Filmfare Best Director,2019
+75,155,Filmfare Best Director,2020
+76,172,Filmfare Best Director,2021
+77,933,Filmfare Best Director,2022
+78,190,Filmfare Best Director,2023
+79,217,Filmfare Best Director,2024
+80,11,Filmfare Best Actor,1961
+81,17,Filmfare Best Actor,1965
+82,24,Filmfare Best Actor,1972
+83,23,Filmfare Best Actor,1974
+84,31,Filmfare Best Actor,1976
+85,32,Filmfare Best Actor,1978
+86,50,Filmfare Best Actor,1990
+87,53,Filmfare Best Actor,1996
+88,56,Filmfare Best Actor,1998
+89,57,Filmfare Best Actor,1999
+90,59,Filmfare Best Actor,2000
+91,60,Filmfare Best Actor,2001
+92,63,Filmfare Best Actor,2002
+93,15,Filmfare Best Actor,2003
+94,67,Filmfare Best Actor,2004
+95,69,Filmfare Best Actor,2005
+96,71,Filmfare Best Actor,2006
+97,74,Filmfare Best Actor,2007
+98,78,Filmfare Best Actor,2008
+99,502,Filmfare Best Actor,2009
+100,89,Filmfare Best Actor,2010
+101,94,Filmfare Best Actor,2011
+102,104,Filmfare Best Actor,2012
+103,106,Filmfare Best Actor,2013
+104,115,Filmfare Best Actor,2014
+105,122,Filmfare Best Actor,2015
+106,125,Filmfare Best Actor,2016
+107,131,Filmfare Best Actor,2017
+108,147,Filmfare Best Actor,2019
+109,152,Filmfare Best Actor,2019
+110,155,Filmfare Best Actor,2020
+111,172,Filmfare Best Actor,2021
+112,933,Filmfare Best Actor,2022
+113,190,Filmfare Best Actor,2023
+114,211,Filmfare Best Actor,2024
+115,217,Filmfare Best Actor,2024
+116,17,Filmfare Best Actress,1965
+117,264,Filmfare Best Actress,1966
+118,25,Filmfare Best Actress,1973
+119,23,Filmfare Best Actress,1974
+120,619,Filmfare Best Actress,1977
+121,50,Filmfare Best Actress,1990
+122,52,Filmfare Best Actress,1993
+123,54,Filmfare Best Actress,1995
+124,53,Filmfare Best Actress,1996
+125,56,Filmfare Best Actress,1998
+126,57,Filmfare Best Actress,1999
+127,59,Filmfare Best Actress,2000
+128,60,Filmfare Best Actress,2001
+129,63,Filmfare Best Actress,2002
+130,15,Filmfare Best Actress,2003
+131,67,Filmfare Best Actress,2004
+132,88,Filmfare Best Actress,2009
+133,71,Filmfare Best Actress,2006
+134,74,Filmfare Best Actress,2007
+135,81,Filmfare Best Actress,2008
+136,502,Filmfare Best Actress,2009
+137,89,Filmfare Best Actress,2010
+138,94,Filmfare Best Actress,2011
+139,104,Filmfare Best Actress,2012
+140,106,Filmfare Best Actress,2013
+141,115,Filmfare Best Actress,2014
+142,123,Filmfare Best Actress,2015
+143,129,Filmfare Best Actress,2016
+144,131,Filmfare Best Actress,2017
+145,669,Filmfare Best Actress,2019
+146,152,Filmfare Best Actress,2019
+147,155,Filmfare Best Actress,2020
+148,172,Filmfare Best Actress,2021
+149,190,Filmfare Best Actress,2023
+150,217,Filmfare Best Actress,2024
+151,2,National Film Award Best Feature Film,1956
+152,4,National Film Award Best Feature Film,1954
+153,1,National Film Award Best Feature Film,1958
+154,8,National Film Award Best Feature Film,1959
+155,11,National Film Award Best Feature Film,1961
+156,10,National Film Award Best Feature Film,1962
+157,17,National Film Award Best Feature Film,1965
+158,264,National Film Award Best Feature Film,1966
+159,22,National Film Award Best Feature Film,1971
+160,24,National Film Award Best Feature Film,1972
+161,23,National Film Award Best Feature Film,1974
+162,32,National Film Award Best Feature Film,1978
+163,53,National Film Award Best Feature Film,1996
+164,54,National Film Award Best Feature Film,1995
+165,63,National Film Award Best Feature Film,2002
+166,15,National Film Award Best Feature Film,2003
+167,66,National Film Award Best Feature Film,2004
+168,69,National Film Award Best Feature Film,2005
+169,71,National Film Award Best Feature Film,2006
+170,74,National Film Award Best Feature Film,2007
+171,80,National Film Award Best Feature Film,2008
+172,78,National Film Award Best Feature Film,2008
+173,89,National Film Award Best Feature Film,2010
+174,94,National Film Award Best Feature Film,2011
+175,106,National Film Award Best Feature Film,2013
+176,115,National Film Award Best Feature Film,2014
+177,123,National Film Award Best Feature Film,2015
+178,125,National Film Award Best Feature Film,2016
+179,131,National Film Award Best Feature Film,2017
+180,155,National Film Award Best Feature Film,2019
+181,152,National Film Award Best Feature Film,2019
+182,151,National Film Award Best Feature Film,2019
+183,165,National Film Award Best Feature Film,2020
+184,179,National Film Award Best Feature Film,2022
+185,176,National Film Award Best Feature Film,2022
+186,59,IIFA Best Film,2000
+187,60,IIFA Best Film,2001
+188,63,IIFA Best Film,2002
+189,15,IIFA Best Film,2003
+190,67,IIFA Best Film,2004
+191,68,IIFA Best Film,2005
+192,71,IIFA Best Film,2006
+193,74,IIFA Best Film,2007
+194,78,IIFA Best Film,2008
+195,502,IIFA Best Film,2009
+196,89,IIFA Best Film,2010
+197,94,IIFA Best Film,2011
+198,102,IIFA Best Film,2012
+199,106,IIFA Best Film,2013
+200,115,IIFA Best Film,2014
+201,123,IIFA Best Film,2015
+202,124,IIFA Best Film,2016
+203,131,IIFA Best Film,2017
+204,155,IIFA Best Film,2020
+205,933,IIFA Best Film,2022
+206,63,Filmfare Critics Award Best Film,2002
+207,69,Filmfare Critics Award Best Film,2005
+208,71,Filmfare Critics Award Best Film,2006
+209,74,Filmfare Critics Award Best Film,2007
+210,78,Filmfare Critics Award Best Film,2008
+211,80,Filmfare Critics Award Best Film,2008
+212,89,Filmfare Critics Award Best Film,2010
+213,94,Filmfare Critics Award Best Film,2011
+214,106,Filmfare Critics Award Best Film,2013
+215,123,Filmfare Critics Award Best Film,2015
+216,131,Filmfare Critics Award Best Film,2017
+217,155,Filmfare Critics Award Best Film,2020
+218,151,Filmfare Critics Award Best Film,2019
+219,217,Filmfare Critics Award Best Film,2024
+220,53,Filmfare Best Supporting Actor,1996
+221,57,Filmfare Best Supporting Actor,1999
+222,64,Filmfare Best Supporting Actor,2002
+223,15,Filmfare Best Supporting Actor,2003
+224,67,Filmfare Best Supporting Actor,2004
+225,68,Filmfare Best Supporting Actor,2005
+226,69,Filmfare Best Supporting Actor,2005
+227,705,Filmfare Best Supporting Actor,2006
+228,74,Filmfare Best Supporting Actor,2007
+229,78,Filmfare Best Supporting Actor,2008
+230,502,Filmfare Best Supporting Actor,2009
+231,89,Filmfare Best Supporting Actor,2010
+232,94,Filmfare Best Supporting Actor,2011
+233,102,Filmfare Best Supporting Actor,2012
+234,106,Filmfare Best Supporting Actor,2013
+235,115,Filmfare Best Supporting Actor,2014
+236,123,Filmfare Best Supporting Actor,2015
+237,124,Filmfare Best Supporting Actor,2016
+238,131,Filmfare Best Supporting Actor,2017
+239,147,Filmfare Best Supporting Actor,2019
+240,152,Filmfare Best Supporting Actor,2019
+241,155,Filmfare Best Supporting Actor,2020
+242,53,Filmfare Best Supporting Actress,1996
+243,57,Filmfare Best Supporting Actress,1999
+244,64,Filmfare Best Supporting Actress,2002
+245,15,Filmfare Best Supporting Actress,2003
+246,67,Filmfare Best Supporting Actress,2004
+247,68,Filmfare Best Supporting Actress,2005
+248,71,Filmfare Best Supporting Actress,2006
+249,74,Filmfare Best Supporting Actress,2007
+250,78,Filmfare Best Supporting Actress,2008
+251,502,Filmfare Best Supporting Actress,2009
+252,89,Filmfare Best Supporting Actress,2010
+253,94,Filmfare Best Supporting Actress,2011
+254,102,Filmfare Best Supporting Actress,2012
+255,106,Filmfare Best Supporting Actress,2013
+256,115,Filmfare Best Supporting Actress,2014
+257,123,Filmfare Best Supporting Actress,2015
+258,125,Filmfare Best Supporting Actress,2016
+259,131,Filmfare Best Supporting Actress,2017
+260,146,Filmfare Best Supporting Actress,2018
+261,147,Filmfare Best Supporting Actress,2019
+262,152,Filmfare Best Supporting Actress,2019
+263,155,Filmfare Best Supporting Actress,2020
+264,50,Filmfare Best Music Director,1990
+265,53,Filmfare Best Music Director,1996
+266,56,Filmfare Best Music Director,1998
+267,57,Filmfare Best Music Director,1999
+268,59,Filmfare Best Music Director,2000
+269,60,Filmfare Best Music Director,2001
+270,63,Filmfare Best Music Director,2002
+271,15,Filmfare Best Music Director,2003
+272,67,Filmfare Best Music Director,2004
+273,68,Filmfare Best Music Director,2005
+274,70,Filmfare Best Music Director,2005
+275,71,Filmfare Best Music Director,2006
+276,74,Filmfare Best Music Director,2007
+277,78,Filmfare Best Music Director,2008
+278,502,Filmfare Best Music Director,2009
+279,89,Filmfare Best Music Director,2010
+280,94,Filmfare Best Music Director,2011
+281,104,Filmfare Best Music Director,2012
+282,106,Filmfare Best Music Director,2013
+283,117,Filmfare Best Music Director,2014
+284,125,Filmfare Best Music Director,2016
+285,131,Filmfare Best Music Director,2017
+286,146,Filmfare Best Music Director,2018
+287,147,Filmfare Best Music Director,2019
+288,152,Filmfare Best Music Director,2019
+289,157,Filmfare Best Music Director,2020
+290,190,Filmfare Best Music Director,2023
+291,50,Filmfare Best Male Playback,1990
+292,374,Filmfare Best Male Playback,1992
+293,54,Filmfare Best Male Playback,1995
+294,53,Filmfare Best Male Playback,1996
+295,56,Filmfare Best Male Playback,1998
+296,57,Filmfare Best Male Playback,1999
+297,59,Filmfare Best Male Playback,2000
+298,60,Filmfare Best Male Playback,2001
+299,63,Filmfare Best Male Playback,2002
+300,67,Filmfare Best Male Playback,2004
+301,68,Filmfare Best Male Playback,2005
+302,893,Filmfare Best Male Playback,2006
+303,300,Filmfare Best Male Playback,2007
+304,580,Filmfare Best Male Playback,2008
+305,502,Filmfare Best Male Playback,2009
+306,89,Filmfare Best Male Playback,2010
+307,94,Filmfare Best Male Playback,2011
+308,104,Filmfare Best Male Playback,2012
+309,106,Filmfare Best Male Playback,2013
+310,117,Filmfare Best Male Playback,2014
+311,124,Filmfare Best Male Playback,2016
+312,130,Filmfare Best Male Playback,2017
+313,146,Filmfare Best Male Playback,2018
+314,147,Filmfare Best Male Playback,2019
+315,152,Filmfare Best Male Playback,2019
+316,157,Filmfare Best Male Playback,2020
+317,50,Filmfare Best Female Playback,1990
+318,53,Filmfare Best Female Playback,1996
+319,56,Filmfare Best Female Playback,1998
+320,57,Filmfare Best Female Playback,1999
+321,59,Filmfare Best Female Playback,2000
+322,60,Filmfare Best Female Playback,2001
+323,63,Filmfare Best Female Playback,2002
+324,15,Filmfare Best Female Playback,2003
+325,67,Filmfare Best Female Playback,2004
+326,81,Filmfare Best Female Playback,2008
+327,502,Filmfare Best Female Playback,2009
+328,89,Filmfare Best Female Playback,2010
+329,94,Filmfare Best Female Playback,2011
+330,106,Filmfare Best Female Playback,2013
+331,117,Filmfare Best Female Playback,2014
+332,124,Filmfare Best Female Playback,2016
+333,130,Filmfare Best Female Playback,2017
+334,146,Filmfare Best Female Playback,2018
+335,147,Filmfare Best Female Playback,2019
+336,152,Filmfare Best Female Playback,2019
+337,157,Filmfare Best Female Playback,2020
+338,51,Filmfare Best Male Debut,1989
+339,50,Filmfare Best Male Debut,1990
+340,374,Filmfare Best Male Debut,1991
+341,52,Filmfare Best Female Debut,1992
+342,60,Filmfare Best Male Debut,2001
+343,738,Filmfare Best Female Debut,2001
+344,580,Filmfare Best Male Debut,2008
+345,79,Filmfare Best Female Debut,2008
+346,109,Filmfare Best Male Debut,2013
+347,109,Filmfare Best Female Debut,2013
+348,110,Filmfare Best Male Debut,2013
+349,97,Filmfare Best Male Debut,2011
+350,686,Filmfare Best Male Debut,2015
+351,131,Filmfare Best Female Debut,2017
+352,155,Filmfare Best Male Debut,2020
+353,933,Filmfare Best Male Debut,2022
+354,211,Filmfare Best Male Debut,2024
+355,185,Filmfare Best Female Debut,2023
+356,50,Filmfare Best Lyricist,1990
+357,53,Filmfare Best Lyricist,1996
+358,56,Filmfare Best Lyricist,1998
+359,57,Filmfare Best Lyricist,1999
+360,59,Filmfare Best Lyricist,2000
+361,63,Filmfare Best Lyricist,2002
+362,15,Filmfare Best Lyricist,2003
+363,67,Filmfare Best Lyricist,2004
+364,68,Filmfare Best Lyricist,2005
+365,71,Filmfare Best Lyricist,2006
+366,74,Filmfare Best Lyricist,2007
+367,78,Filmfare Best Lyricist,2008
+368,502,Filmfare Best Lyricist,2009
+369,89,Filmfare Best Lyricist,2010
+370,94,Filmfare Best Lyricist,2011
+371,104,Filmfare Best Lyricist,2012
+372,106,Filmfare Best Lyricist,2013
+373,117,Filmfare Best Lyricist,2014
+374,125,Filmfare Best Lyricist,2016
+375,130,Filmfare Best Lyricist,2017
+376,131,Filmfare Best Lyricist,2017
+377,146,Filmfare Best Lyricist,2018
+378,147,Filmfare Best Lyricist,2019
+379,152,Filmfare Best Lyricist,2019
+380,155,Filmfare Best Lyricist,2020
+381,190,Filmfare Best Lyricist,2023
+382,53,Filmfare Best Screenplay,1996
+383,54,Filmfare Best Screenplay,1995
+384,63,Filmfare Best Screenplay,2002
+385,66,Filmfare Best Screenplay,2004
+386,69,Filmfare Best Screenplay,2005
+387,71,Filmfare Best Screenplay,2006
+388,74,Filmfare Best Screenplay,2007
+389,78,Filmfare Best Screenplay,2008
+390,89,Filmfare Best Screenplay,2010
+391,94,Filmfare Best Screenplay,2011
+392,106,Filmfare Best Screenplay,2013
+393,115,Filmfare Best Screenplay,2014
+394,123,Filmfare Best Screenplay,2015
+395,124,Filmfare Best Screenplay,2016
+396,131,Filmfare Best Screenplay,2017
+397,147,Filmfare Best Screenplay,2019
+398,152,Filmfare Best Screenplay,2019
+399,53,Filmfare Best Story,1996
+400,54,Filmfare Best Story,1995
+401,63,Filmfare Best Story,2002
+402,66,Filmfare Best Story,2004
+403,69,Filmfare Best Story,2005
+404,71,Filmfare Best Story,2006
+405,74,Filmfare Best Story,2007
+406,78,Filmfare Best Story,2008
+407,89,Filmfare Best Story,2010
+408,94,Filmfare Best Story,2011
+409,106,Filmfare Best Story,2013
+410,115,Filmfare Best Story,2014
+411,123,Filmfare Best Story,2015
+412,124,Filmfare Best Story,2016
+413,131,Filmfare Best Story,2017
+414,147,Filmfare Best Story,2019
+415,152,Filmfare Best Story,2019
+416,77,Filmfare Best Action,2007
+417,84,Filmfare Best Action,2009
+418,95,Filmfare Best Action,2011
+419,101,Filmfare Best Action,2012
+420,107,Filmfare Best Action,2013
+421,113,Filmfare Best Action,2014
+422,121,Filmfare Best Action,2015
+423,124,Filmfare Best Action,2016
+424,130,Filmfare Best Action,2017
+425,125,Filmfare Best Action,2016
+426,138,Filmfare Best Action,2018
+427,159,Filmfare Best Action,2020
+428,209,Filmfare Best Action,2024
+429,210,Filmfare Best Action,2024
+430,211,Filmfare Best Action,2024
+431,50,Filmfare Best Choreography,1990
+432,54,Filmfare Best Choreography,1995
+433,53,Filmfare Best Choreography,1996
+434,56,Filmfare Best Choreography,1998
+435,57,Filmfare Best Choreography,1999
+436,59,Filmfare Best Choreography,2000
+437,60,Filmfare Best Choreography,2001
+438,63,Filmfare Best Choreography,2002
+439,15,Filmfare Best Choreography,2003
+440,67,Filmfare Best Choreography,2004
+441,70,Filmfare Best Choreography,2005
+442,71,Filmfare Best Choreography,2006
+443,74,Filmfare Best Choreography,2007
+444,78,Filmfare Best Choreography,2008
+445,502,Filmfare Best Choreography,2009
+446,89,Filmfare Best Choreography,2010
+447,94,Filmfare Best Choreography,2011
+448,104,Filmfare Best Choreography,2012
+449,106,Filmfare Best Choreography,2013
+450,115,Filmfare Best Choreography,2014
+451,123,Filmfare Best Choreography,2015
+452,125,Filmfare Best Choreography,2016
+453,130,Filmfare Best Choreography,2017
+454,131,Filmfare Best Choreography,2017
+455,146,Filmfare Best Choreography,2018
+456,147,Filmfare Best Choreography,2019
+457,157,Filmfare Best Choreography,2020
+458,15,Filmfare Best Cinematography,2003
+459,71,Filmfare Best Cinematography,2006
+460,74,Filmfare Best Cinematography,2007
+461,502,Filmfare Best Cinematography,2009
+462,89,Filmfare Best Cinematography,2010
+463,94,Filmfare Best Cinematography,2011
+464,104,Filmfare Best Cinematography,2012
+465,106,Filmfare Best Cinematography,2013
+466,115,Filmfare Best Cinematography,2014
+467,123,Filmfare Best Cinematography,2015
+468,125,Filmfare Best Cinematography,2016
+469,130,Filmfare Best Cinematography,2017
+470,131,Filmfare Best Cinematography,2017
+471,146,Filmfare Best Cinematography,2018
+472,147,Filmfare Best Cinematography,2019
+473,157,Filmfare Best Cinematography,2020
+474,190,Filmfare Best Cinematography,2023
+475,209,Filmfare Best Cinematography,2024
+476,210,Filmfare Best Cinematography,2024
+477,63,Filmfare Best Editing,2002
+478,66,Filmfare Best Editing,2004
+479,69,Filmfare Best Editing,2005
+480,71,Filmfare Best Editing,2006
+481,74,Filmfare Best Editing,2007
+482,78,Filmfare Best Editing,2008
+483,89,Filmfare Best Editing,2010
+484,94,Filmfare Best Editing,2011
+485,104,Filmfare Best Editing,2012
+486,106,Filmfare Best Editing,2013
+487,115,Filmfare Best Editing,2014
+488,123,Filmfare Best Editing,2015
+489,124,Filmfare Best Editing,2016
+490,130,Filmfare Best Editing,2017
+491,131,Filmfare Best Editing,2017
+492,147,Filmfare Best Editing,2019
+493,152,Filmfare Best Editing,2019
+494,155,Filmfare Best Editing,2020
+495,63,Stardust Best Film,2002
+496,15,Stardust Best Film,2003
+497,66,Stardust Best Film,2004
+498,69,Stardust Best Film,2005
+499,71,Stardust Best Film,2006
+500,74,Stardust Best Film,2007
+501,78,Stardust Best Film,2008
+502,80,Stardust Best Film,2008
+503,89,Stardust Best Film,2010
+504,94,Stardust Best Film,2011
+505,102,Stardust Best Film,2012
+506,106,Stardust Best Film,2013
+507,115,Stardust Best Film,2014
+508,123,Stardust Best Film,2015
+509,124,Stardust Best Film,2016
+510,131,Stardust Best Film,2017
+511,152,Stardust Best Film,2019
+512,155,Stardust Best Film,2020
+513,59,Zee Cine Best Film,2000
+514,60,Zee Cine Best Film,2001
+515,63,Zee Cine Best Film,2002
+516,15,Zee Cine Best Film,2003
+517,67,Zee Cine Best Film,2004
+518,68,Zee Cine Best Film,2005
+519,71,Zee Cine Best Film,2006
+520,74,Zee Cine Best Film,2007
+521,78,Zee Cine Best Film,2008
+522,502,Zee Cine Best Film,2009
+523,89,Zee Cine Best Film,2010
+524,94,Zee Cine Best Film,2011
+525,102,Zee Cine Best Film,2012
+526,106,Zee Cine Best Film,2013
+527,115,Zee Cine Best Film,2014
+528,123,Zee Cine Best Film,2015
+529,125,Zee Cine Best Film,2016
+530,131,Zee Cine Best Film,2017
+531,147,Zee Cine Best Film,2019
+532,155,Zee Cine Best Film,2020
+533,54,Screen Award Best Film,1995
+534,53,Screen Award Best Film,1996
+535,57,Screen Award Best Film,1999
+536,59,Screen Award Best Film,2000
+537,60,Screen Award Best Film,2001
+538,63,Screen Award Best Film,2002
+539,15,Screen Award Best Film,2003
+540,67,Screen Award Best Film,2004
+541,68,Screen Award Best Film,2005
+542,71,Screen Award Best Film,2006
+543,74,Screen Award Best Film,2007
+544,78,Screen Award Best Film,2008
+545,89,Screen Award Best Film,2010
+546,94,Screen Award Best Film,2011
+547,102,Screen Award Best Film,2012
+548,106,Screen Award Best Film,2013
+549,115,Screen Award Best Film,2014
+550,123,Screen Award Best Film,2015
+551,125,Screen Award Best Film,2016
+552,131,Screen Award Best Film,2017
+553,147,Screen Award Best Film,2019
+554,155,Screen Award Best Film,2020
+555,2,Filmfare Lifetime Achievement,1955
+556,1,Filmfare Lifetime Achievement,1957
+557,11,Filmfare Lifetime Achievement,1960
+558,24,Filmfare Lifetime Achievement,1971
+559,23,Filmfare Lifetime Achievement,1973
+560,30,Filmfare Lifetime Achievement,1975
+561,31,Filmfare Lifetime Achievement,1975
+562,53,Filmfare Lifetime Achievement,1995
+563,54,Filmfare Lifetime Achievement,1994
+564,5,Filmfare Lifetime Achievement,1957
+565,6,Filmfare Lifetime Achievement,1959
+566,7,Filmfare Lifetime Achievement,1958
+567,131,Filmfare Special Award,2017
+568,138,Filmfare Special Award,2018
+569,176,Filmfare Special Award,2022
+570,201,Filmfare Special Award,2022
+571,202,Filmfare Special Award,2022
+572,209,Filmfare Special Award,2023
+573,210,Filmfare Special Award,2023
+574,211,Filmfare Special Award,2023
+575,217,Filmfare Special Award,2023
+576,245,Filmfare Special Award,2024
+577,260,Filmfare Special Award,2024
+578,604,Filmfare Best Comedian,1996
+579,333,Filmfare Best Comedian,2001
+580,66,Filmfare Best Comedian,2004
+581,388,Filmfare Best Comedian,2006
+582,430,Filmfare Best Comedian,2007
+583,340,Filmfare Best Comedian,2007
+584,105,Filmfare Best Villain,2012
+585,84,Filmfare Best Villain,2009
+586,29,Filmfare Best Villain,2007
+587,517,Filmfare Best Villain,2008
+588,462,Filmfare Best Villain,1994
+589,440,Filmfare Best Villain,2011
+590,95,Filmfare Best Villain,2010
+591,124,Filmfare Best Villain,2016
+592,146,Filmfare Best Villain,2018
+593,63,Filmfare Best Background Score,2002
+594,69,Filmfare Best Background Score,2005
+595,71,Filmfare Best Background Score,2006
+596,74,Filmfare Best Background Score,2007
+597,78,Filmfare Best Background Score,2008
+598,89,Filmfare Best Background Score,2010
+599,94,Filmfare Best Background Score,2011
+600,104,Filmfare Best Background Score,2012
+601,106,Filmfare Best Background Score,2013
+602,115,Filmfare Best Background Score,2014
+603,123,Filmfare Best Background Score,2015
+604,124,Filmfare Best Background Score,2016
+605,131,Filmfare Best Background Score,2017
+606,147,Filmfare Best Background Score,2019
+607,152,Filmfare Best Background Score,2019
+608,155,Filmfare Best Background Score,2020
+609,15,Filmfare Best Costume,2003
+610,502,Filmfare Best Costume,2009
+611,125,Filmfare Best Costume,2016
+612,146,Filmfare Best Costume,2018
+613,190,Filmfare Best Costume,2023
+614,15,Filmfare Best Production Design,2003
+615,502,Filmfare Best Production Design,2009
+616,125,Filmfare Best Production Design,2016
+617,146,Filmfare Best Production Design,2018
+618,190,Filmfare Best Production Design,2023
+619,71,Filmfare Best Sound Design,2006
+620,74,Filmfare Best Sound Design,2007
+621,78,Filmfare Best Sound Design,2008
+622,89,Filmfare Best Sound Design,2010
+623,94,Filmfare Best Sound Design,2011
+624,104,Filmfare Best Sound Design,2012
+625,106,Filmfare Best Sound Design,2013
+626,115,Filmfare Best Sound Design,2014
+627,123,Filmfare Best Sound Design,2015
+628,124,Filmfare Best Sound Design,2016
+629,131,Filmfare Best Sound Design,2017
+630,147,Filmfare Best Sound Design,2019
+631,152,Filmfare Best Sound Design,2019
+632,155,Filmfare Best Sound Design,2020
+633,75,Filmfare Best VFX,2007
+634,29,Filmfare Best VFX,2007
+635,77,Filmfare Best VFX,2007
+636,114,Filmfare Best VFX,2014
+637,138,Filmfare Best VFX,2018
+638,370,Filmfare Best VFX,2018
+639,185,Filmfare Best VFX,2022
+640,209,Filmfare Best VFX,2023
+641,210,Filmfare Best VFX,2023
+642,737,Filmfare Best VFX,2024
+643,70,Filmfare Best Stunt,2005
+644,77,Filmfare Best Stunt,2007
+645,84,Filmfare Best Stunt,2009
+646,95,Filmfare Best Stunt,2011
+647,101,Filmfare Best Stunt,2012
+648,107,Filmfare Best Stunt,2013
+649,121,Filmfare Best Stunt,2015
+650,125,Filmfare Best Stunt,2016
+651,130,Filmfare Best Stunt,2017
+652,159,Filmfare Best Stunt,2020
+653,209,Filmfare Best Stunt,2023
+654,210,Filmfare Best Stunt,2023
+655,211,Filmfare Best Stunt,2023
+656,63,Critics Award Film,2002
+657,69,Critics Award Film,2005
+658,71,Critics Award Film,2006
+659,74,Critics Award Film,2007
+660,80,Critics Award Film,2008
+661,89,Critics Award Film,2010
+662,94,Critics Award Film,2011
+663,106,Critics Award Film,2013
+664,123,Critics Award Film,2015
+665,131,Critics Award Film,2017
+666,152,Critics Award Film,2019
+667,155,Critics Award Film,2020
+668,151,Critics Award Film,2019
+669,217,Critics Award Film,2023
+670,80,National Film Award Best Children's Film,2008
+671,138,National Film Award Best Telugu Film,2018
+672,202,National Film Award Best Kannada Film,2022
+673,176,National Film Award Best Telugu Film,2022
+674,201,National Film Award Best Telugu Film,2022
+675,179,National Film Award Best Hindi Film,2022
+676,209,National Film Award Best Hindi Film,2023
+677,210,National Film Award Best Hindi Film,2023
